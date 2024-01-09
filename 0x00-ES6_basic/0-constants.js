@@ -1,6 +1,4 @@
 export function taskFirst() {
-    // Modify variables to const or let
-
     const task = 'I prefer const when I can.';
     return task;
 }
