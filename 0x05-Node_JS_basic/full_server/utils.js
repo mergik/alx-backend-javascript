@@ -1,3 +1,4 @@
+// Reads database asynchronously and returns a promise
 const fs = require('fs');
 
 async function countStudents(path) {
