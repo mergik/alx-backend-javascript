@@ -1,4 +1,5 @@
 // Round a and b and return sum
+
 const calculateNumber = (a, b) => {
   return Math.round(a) + Math.round(b);
 }
